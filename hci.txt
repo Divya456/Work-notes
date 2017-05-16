@@ -1,0 +1,12 @@
+Leap motion vs Kinect
+
+Kinect is a sensor used especially for gaming, that too with a gaming console. Microsoft did release a windows version of it but considering it's capabilities, Gaming and Fitness are the most appropriate areas where Kinect would fit than applications. Kinect allows interaction in a range of 0.4 to 4 meters. It does both, full and partial skeletal tracking, depth sensing and audio tracking as well. The upcoming version of Kinect also measures heart rate, recognizes expressions, tracks 6 users at a time, determines forces at various joints of body and does a muscle simulation.
+
+
+Kinect - Most powerful, most popular, more games and apps, better suited for Console games and Fitness purpose, Bigger in size than other sensors and hence less portable.
+
+
+The Leap Motion is meant for use much closer to the user than the Kinect. While the Kinect has a usable range from about 1.2 m to 3.5 m from the sensor, the Leap Motion has a range of about 1 to 20 inches (though it has a 150 degree field of view). It also has a much higher precision than the Kinect, with the ability to resolve movements of 1/100 mm (vs. the Kinect’s 1.3 mm resolution). This means it is more suited to the role of a computer input device than the Kinect, as it has a range that is more conducive to use at desk-range. Its high resolution allows for the possibility of handwriting recognition, virtual keyboards, and more precise gesture-based controls. However, it cannot track the entire body, like the Kinect does; rather, it (more precisely) tracks a smaller portion of the body (usually the hands and arms).
+
+Leap Motion - Most accurate, Embedded in PCs and tablets, better suited for PC games and apps, limited capability, awkward placement.
+
