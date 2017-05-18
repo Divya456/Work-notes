@@ -1,0 +1,6 @@
+c:\users\divi\documents\visual studio 2015\Projects\Luis\Luis\bin\Debug\Luis.exe.config
+c:\users\divi\documents\visual studio 2015\Projects\Luis\Luis\bin\Debug\Luis.exe
+c:\users\divi\documents\visual studio 2015\Projects\Luis\Luis\bin\Debug\Luis.pdb
+c:\users\divi\documents\visual studio 2015\Projects\Luis\Luis\obj\Debug\Luis.csprojResolveAssemblyReference.cache
+c:\users\divi\documents\visual studio 2015\Projects\Luis\Luis\obj\Debug\Luis.exe
+c:\users\divi\documents\visual studio 2015\Projects\Luis\Luis\obj\Debug\Luis.pdb
