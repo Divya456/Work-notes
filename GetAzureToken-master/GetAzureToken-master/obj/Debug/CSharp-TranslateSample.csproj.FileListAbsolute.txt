@@ -1,0 +1,6 @@
+C:\Users\t-dinar\Downloads\GetAzureToken-master\GetAzureToken-master\bin\Debug\CSharp-TranslateSample.exe.config
+C:\Users\t-dinar\Downloads\GetAzureToken-master\GetAzureToken-master\bin\Debug\CSharp-TranslateSample.exe
+C:\Users\t-dinar\Downloads\GetAzureToken-master\GetAzureToken-master\bin\Debug\CSharp-TranslateSample.pdb
+C:\Users\t-dinar\Downloads\GetAzureToken-master\GetAzureToken-master\obj\Debug\CSharp-TranslateSample.csprojResolveAssemblyReference.cache
+C:\Users\t-dinar\Downloads\GetAzureToken-master\GetAzureToken-master\obj\Debug\CSharp-TranslateSample.exe
+C:\Users\t-dinar\Downloads\GetAzureToken-master\GetAzureToken-master\obj\Debug\CSharp-TranslateSample.pdb
