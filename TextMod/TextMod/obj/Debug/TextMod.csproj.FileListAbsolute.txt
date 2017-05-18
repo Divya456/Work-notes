@@ -1,0 +1,6 @@
+c:\users\t-dinar\documents\visual studio 2015\Projects\TextMod\TextMod\bin\Debug\TextMod.exe.config
+c:\users\t-dinar\documents\visual studio 2015\Projects\TextMod\TextMod\obj\Debug\TextMod.csprojResolveAssemblyReference.cache
+c:\users\t-dinar\documents\visual studio 2015\Projects\TextMod\TextMod\bin\Debug\TextMod.exe
+c:\users\t-dinar\documents\visual studio 2015\Projects\TextMod\TextMod\bin\Debug\TextMod.pdb
+c:\users\t-dinar\documents\visual studio 2015\Projects\TextMod\TextMod\obj\Debug\TextMod.exe
+c:\users\t-dinar\documents\visual studio 2015\Projects\TextMod\TextMod\obj\Debug\TextMod.pdb
