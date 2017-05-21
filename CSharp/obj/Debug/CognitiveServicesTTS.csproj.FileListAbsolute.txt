@@ -1,0 +1,6 @@
+C:\Users\Divi\Downloads\Cognitive-Speech-TTS-master\Cognitive-Speech-TTS-master\Samples-Http\CSharp\bin\Debug\CognitiveServicesTTS.exe.config
+C:\Users\Divi\Downloads\Cognitive-Speech-TTS-master\Cognitive-Speech-TTS-master\Samples-Http\CSharp\bin\Debug\CognitiveServicesTTS.exe
+C:\Users\Divi\Downloads\Cognitive-Speech-TTS-master\Cognitive-Speech-TTS-master\Samples-Http\CSharp\bin\Debug\CognitiveServicesTTS.pdb
+C:\Users\Divi\Downloads\Cognitive-Speech-TTS-master\Cognitive-Speech-TTS-master\Samples-Http\CSharp\obj\Debug\CognitiveServicesTTS.csprojResolveAssemblyReference.cache
+C:\Users\Divi\Downloads\Cognitive-Speech-TTS-master\Cognitive-Speech-TTS-master\Samples-Http\CSharp\obj\Debug\CognitiveServicesTTS.exe
+C:\Users\Divi\Downloads\Cognitive-Speech-TTS-master\Cognitive-Speech-TTS-master\Samples-Http\CSharp\obj\Debug\CognitiveServicesTTS.pdb
