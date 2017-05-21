@@ -1,0 +1,9 @@
+c:\users\t-dinar\documents\visual studio 2015\Projects\TextAn\TextAn\bin\Debug\TextAn.exe.config
+c:\users\t-dinar\documents\visual studio 2015\Projects\TextAn\TextAn\bin\Debug\TextAn.exe
+c:\users\t-dinar\documents\visual studio 2015\Projects\TextAn\TextAn\bin\Debug\TextAn.pdb
+c:\users\t-dinar\documents\visual studio 2015\Projects\TextAn\TextAn\bin\Debug\AzureTextAnalytics.dll
+c:\users\t-dinar\documents\visual studio 2015\Projects\TextAn\TextAn\bin\Debug\Newtonsoft.Json.dll
+c:\users\t-dinar\documents\visual studio 2015\Projects\TextAn\TextAn\bin\Debug\Newtonsoft.Json.xml
+c:\users\t-dinar\documents\visual studio 2015\Projects\TextAn\TextAn\obj\Debug\TextAn.csprojResolveAssemblyReference.cache
+c:\users\t-dinar\documents\visual studio 2015\Projects\TextAn\TextAn\obj\Debug\TextAn.exe
+c:\users\t-dinar\documents\visual studio 2015\Projects\TextAn\TextAn\obj\Debug\TextAn.pdb
