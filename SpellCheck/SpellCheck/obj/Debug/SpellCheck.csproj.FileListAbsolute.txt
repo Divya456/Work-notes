@@ -1,0 +1,6 @@
+c:\users\t-dinar\documents\visual studio 2015\Projects\SpellCheck\SpellCheck\bin\Debug\SpellCheck.exe.config
+c:\users\t-dinar\documents\visual studio 2015\Projects\SpellCheck\SpellCheck\obj\Debug\SpellCheck.csprojResolveAssemblyReference.cache
+c:\users\t-dinar\documents\visual studio 2015\Projects\SpellCheck\SpellCheck\bin\Debug\SpellCheck.exe
+c:\users\t-dinar\documents\visual studio 2015\Projects\SpellCheck\SpellCheck\bin\Debug\SpellCheck.pdb
+c:\users\t-dinar\documents\visual studio 2015\Projects\SpellCheck\SpellCheck\obj\Debug\SpellCheck.exe
+c:\users\t-dinar\documents\visual studio 2015\Projects\SpellCheck\SpellCheck\obj\Debug\SpellCheck.pdb
